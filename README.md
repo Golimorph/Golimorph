@@ -1,11 +1,6 @@
-- 👋 Hi, I’m @Golimorph
+- 👋 Hi, I’m @Golimorph Here I store some private projects that I have done in my free time. Brain analysis tool (BACH) and some roboticts programs for Arduino robot (VICTOR)
 - 👀 I’m interested in C++ and Java for Engineering 
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me richardedberg@gmail.com
+- 🌱 I’m currently learning C++/Python/JAVA/TensorFlow and many more.
+- 💞️ I’m looking to collaborate on AI, machine learning robotics and image processing.
+- 📫 How to reach me richardedberg@gmail.com or +46721767805
 
-
-<!---
-Golimorph/Golimorph is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
